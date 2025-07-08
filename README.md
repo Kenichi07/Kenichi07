@@ -1,16 +1,52 @@
-## Hi there 👋
+### Bem vindo ao meu perfil 👋
 
-<!--
-**Kenichi07/Kenichi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas na **FATEC Mogi das Cruzes** e estou em constante evolução no mundo da tecnologia. Tenho interesse em desenvolvimento de software, banco de dados, análise de dados e tecnologias web.
 
-Here are some ideas to get you started:
+### 🚀 Um pouco sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante da FATEC Mogi das Cruzes
+- 🎮 Gosto de jogos e manhwas/mangás.
+- 📈 Curioso por entender como a tecnologia pode resolver problemas do mundo real
+
+### 📚 Projetos e Estudos
+
+Aqui no meu GitHub você vai encontrar projetos de estudos, desafios práticos, exercícios de faculdade e experimentos com novas tecnologias. Sempre que possível, tento deixar os repositórios organizados e bem documentados.
+
+### 🎯 Objetivos atuais:
+
+- Aprofundar meus conhecimentos em **Desenvolvimento Full Stack**
+- Participar de projetos práticos para ganhar experiência
+- Contribuir com a comunidade através de repositórios abertos
+
+### Ferramentas e Tecnologias
+
+<!-- Utilize o https://devicon.dev/ para mais ícones, esses são apenas exemplos -->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
+
+### Estou aprendendo
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+### Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/vinicius-huang/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+Sinta-se à vontade para explorar meus projetos ou me chamar para conversar sobre tecnologia! 😄
+
+ ![Snake animation](https://github.com/camilafernanda2/camilafernanda2/blob/output/github-contribution-grid-snake.svg)
