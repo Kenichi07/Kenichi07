@@ -36,5 +36,3 @@ Aqui no meu GitHub você vai encontrar projetos de estudos, desafios práticos, 
 </div>
 
 Sinta-se à vontade para explorar meus projetos ou me chamar para conversar sobre tecnologia! 😄
-
- ![Snake animation](https://github.com/camilafernanda2/camilafernanda2/blob/output/github-contribution-grid-snake.svg)
