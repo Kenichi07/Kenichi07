@@ -1,6 +1,9 @@
 ### Bem vindo ao meu perfil 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na **FATEC Mogi das Cruzes** e estou em constante evolução no mundo da tecnologia. Tenho interesse em desenvolvimento de software, banco de dados, análise de dados e tecnologias web.
+Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de evoluir como profissional, tanto no FrontEnd quanto no BackEnd explorando novas linguagens, ferramentas e Frameworks.
+Sou uma pessoa organizada, com facilidade de aprendizado e foco na resolução de problemas de forma eficiente. Gosto de colaborar em equipe e acredito que a troca de conhecimento é essencial para o crescimento pessoal e coletivo.
+
 
 ### 🚀 Um pouco sobre mim:
 
